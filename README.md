@@ -25,6 +25,10 @@ Building experimental architectures at the intersection of AI, physics, and infr
 
 ---
 
+### 🛠️ Technical Capabilities (SEO/Search)
+<!-- Keywords for Recruiters & GitHub Search Engine Optimization -->
+`Python` `Cisco DevNet` `Network Automation` `Computer Vision` `YOLOv11` `Deep Learning` `PyTorch` `TensorFlow` `FastAPI` `Docker` `Kubernetes` `CI/CD` `Jenkins` `Linux` `Bash` `System Architecture` `Physics Simulation` `Materials Science` `R&D`
+
 <div align="center">
   <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
