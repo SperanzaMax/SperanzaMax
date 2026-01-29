@@ -61,9 +61,9 @@ My profile merges **Infrastructure Operations (IT/OT)** with **Modern Software E
 | Cluster | Components |
 | :--- | :--- |
 | **Vision (Vi)** | `YOLO (v8/v11)` `OpenCV` `YOLO-World` `Ultralytics Hub` |
-| **Safety (Sa)** | `EPI Detection` `Industrial Hygiene` `Compliance Monitoring` |
+| **Applied AI** | `PPE Detection` `Real-time Inference` `Safety Automation` |
 | **Logic (Lo)** | `Python` `FastAPI` `Automation Scripts` `SQLAlchemy` |
-| **Field (IT)** | `Network Infra` `Critical Systems` `Industrial Maintenance` |
+| **Infra (IT)** | `Network Automation` `Critical Systems` `IoT & Edge` |
 | **DevOps (Op)** | `Docker` `Git` `Cisco DevNet` `CI/CD Pipelines` |
 
 ---
