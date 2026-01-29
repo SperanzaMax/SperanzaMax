@@ -9,7 +9,7 @@
   <p><i>Building bridges between the physical world and digital intelligence.</i></p>
 
   <div style="display: flex; justify-content: center; gap: 8px;">
-    <a href="https://linkedin.com/in/tu-usuario">
+    <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://westo.com.ar">
