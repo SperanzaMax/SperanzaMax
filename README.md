@@ -28,6 +28,8 @@ La Ingeniería de Sistemas impulsada por la curiosidad y la implementación de d
 | **[🧠 ReactionNet](https://github.com/SperanzaMax/ReactionNet)** | Siamese neural network for chemical reactivity prediction. |
 | **[🧪 Periodic Table Dataset](https://github.com/SperanzaMax/dataset-tabla-periodica-json)** | Structured dataset for ML-driven materials research. |
 | **[⚙️ DevNet2025](https://github.com/SperanzaMax/DevNet2025)** | Automation & network programmability labs. |
+| **[🚀 Sample-App](https://github.com/SperanzaMax/sample-app)** | CI/CD pipeline demonstration with Jenkins and Python. |
+| **[📂 IT-Lab-Archive](https://github.com/SperanzaMax/IT-Lab-Archive)** | Archive for early IT experiments and foundational systems research. |
 
 <br/>
 
