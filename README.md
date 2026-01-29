@@ -15,7 +15,7 @@
     <a href="https://westo.com.ar">
       <img src="https://img.shields.io/badge/Website-WESTO-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Westo Website"/>
     </a>
-    <a href="mailto:info@westo.com.ar">
+    <a href="mailto:maximiliano.speranza@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
