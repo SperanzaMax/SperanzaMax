@@ -5,8 +5,8 @@
   <br/>
   
   <h1>🛡️ Maximiliano Rodrigo Speranza</h1>
-  <p><b>Multi-Disciplinary Visionary: Infrastructure • Systems • Artificial Intelligence</b></p>
-  <p><i>Building bridges between the physical world and digital intelligence.</i></p>
+  <p><b>IT • DevOps • DevNet • AI Engineer</b></p>
+  <p><i>Orchestrating intelligent infrastructure: From Network Automation to Computer Vision.</i></p>
 
   <div style="display: flex; justify-content: center; gap: 8px;">
     <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a">
@@ -29,23 +29,23 @@
 
 ---
 
-<h2 id="-español">🇪🇸 Versatilidad: Múltiples Pieles, Un Único Objetivo</h2>
+<h2 id="-español">🇪🇸 Ingeniería Híbrida: IT + IA</h2>
 
-Mi trayectoria es **multidimensional**. Poseo "múltiples pieles" profesionales que me permiten resolver problemas complejos desde ángulos únicos: desde la robustez de la infraestructura física hasta la sutileza de una red neuronal.
+Mi perfil fusiona la **Operación de Infraestructura (IT/OT)** con la **Ingeniería de Software Moderna**. No solo entreno modelos de IA; diseño el pipeline completo (DevOps) y la red (DevNet) que los sostiene.
 
-- **Piel de Contratista Industrial:** +20 años gestionando obras críticas (Banco ICBC, Techint, Ministerio de Seguridad). 
-- **Piel de Ingeniero de Sistemas:** Formación en la **UBA (FIUBA)** y certificación **Cisco DevNet**. 
-- **Piel de AI Research:** Especialización en **UTN.BA** en Visión por Computadora y Deep Learning. 
+- **DevNet & IT:** Automatización de redes Cisco y gestión de infraestructura crítica.
+- **DevOps & Cloud:** Despliegue de soluciones escalables (Docker, CI/CD) y optimización de hardware.
+- **AI Engineering:** Modelos de Visión por Computadora (YOLO) integrados en sistemas de producción.
 
 ---
 
-<h2 id="-english">🇺🇸 Versatility: Many Skins, One Goal</h2>
+<h2 id="-english">🇺🇸 Hybrid Engineering: IT + AI</h2>
 
-My career path is **multidimensional**. I possess "multiple professional skins" that allow me to solve complex problems from unique angles: from the robustness of physical infrastructure to the subtleness of a neural network.
+My profile merges **Infrastructure Operations (IT/OT)** with **Modern Software Engineering**. I don't just train AI models; I design the complete pipeline (DevOps) and the network (DevNet) that sustains them.
 
-- **Industrial Contractor Skin:** 20+ years managing critical works (ICBC Bank, Techint, Ministry of Security).
-- **Systems Engineer Skin:** Academic background at **UBA (FIUBA)** and **Cisco DevNet** certification.
-- **AI Researcher Skin:** Specialization at **UTN.BA** in Computer Vision and Deep Learning.
+- **DevNet & IT:** Cisco network automation and critical infrastructure management.
+- **DevOps & Cloud:** Scalable solution deployment (Docker, CI/CD) and hardware optimization.
+- **AI Engineering:** Computer Vision models (YOLO) integrated into production systems.
 
 ---
 
@@ -62,9 +62,9 @@ My career path is **multidimensional**. I possess "multiple professional skins" 
 | :--- | :--- |
 | **Vision (Vi)** | `YOLO (v8/v11)` `OpenCV` `YOLO-World` `Ultralytics Hub` |
 | **Safety (Sa)** | `EPI Detection` `Industrial Hygiene` `Compliance Monitoring` |
-| **Logic (Lo)** | `Python` `FastAPI` `DevNet (Cisco)` `SQLAlchemy` |
-| **Field (Fi)** | `Critical Infrastructure` `Project Mgmt` `Industrial Maintenance` |
-| **Forge (Fo)** | `Docker` `Git` `T4 GPU Optimization` `VS Code` |
+| **Logic (Lo)** | `Python` `FastAPI` `Automation Scripts` `SQLAlchemy` |
+| **Field (IT)** | `Network Infra` `Critical Systems` `Industrial Maintenance` |
+| **DevOps (Op)** | `Docker` `Git` `Cisco DevNet` `CI/CD Pipelines` |
 
 ---
 
