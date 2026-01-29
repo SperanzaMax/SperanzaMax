@@ -1,74 +1,82 @@
+# Maximiliano R. Speranza
+**IT • DevOps • DevNet • AI Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-speranza-35876737a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@westo.com.ar)
+
 <div align="center">
-  <img src="header_profile.jpg" width="100%" style="border-radius: 10px;" alt="Profile Header"/>
+  <a href="#-english-profile">🇬🇧 English</a> &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; <a href="#-perfil-en-español">🇪🇸 Español</a>
 </div>
-
-<br/>
-
-<div align="center">
-  <h1>Maximiliano R. Speranza</h1>
-  <h3>IT • DevOps • DevNet • AI Engineer</h3>
-  <p><i>Integrando Infraestructura Crítica, Automatización de Redes e Inteligencia Artificial.</i></p>
-
-  <br/>
-
-  <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:info@westo.com.ar">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br/>
-
-## 🚀 Perfil Profesional
-
-Ingeniero con una sólida trayectoria técnica de más de 20 años en **Operaciones de Sistemas e Infraestructura**. Mi carrera ha evolucionado desde la gestión de entornos físicos críticos hacia la **Ingeniería de Software y DevOps**, especializándome en la convergencia de **IT, OT (Operational Technology) e IA**.
-
-Mi enfoque actual combina la robustez de la ingeniería de sistemas con la agilidad de las prácticas DevOps y la innovación de la Inteligencia Artificial aplicada.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🏗️ Architecture & Technology Stack
 
-| Dominio | Tecnologías y Herramientas |
+| Logic & AI | Infrastructure & DevOps |
 | :--- | :--- |
-| **Artificial Intelligence** | `YOLO (v8/v11)` • `OpenCV` • `PyTorch` • `Computer Vision` • `Ultralytics` |
-| **DevNet & Network** | `Cisco DevNet` • `Network Automation` • `IoT Protocols` • `Infrastructure as Code` |
-| **DevOps & Cloud** | `Docker` • `CI/CD Pipelines` • `Git` • `Linux Administration` |
-| **Backend & Logic** | `Python` • `FastAPI` • `SQLAlchemy` • `MySQL` |
+| **Python** (FastAPI, SQLAlchemy, Pandas) | **Cisco DevNet** (Network Automation, RESTCONF) |
+| **Computer Vision** (YOLOv11, OpenCV, Ultralytics) | **Docker / CI/CD** (Jenkins, Pipelines) |
+| **Deep Learning** (PyTorch, TensorFlow) | **Linux & Critical Systems** (Bash, SystemD) |
 
 ---
 
-## 🧠 Proyectos Destacados
+<a id="-english-profile"></a>
+## 🇬🇧 English Profile
 
-### 🧬 GENESIS (Research & Development)
-*Marco teórico-experimental para almacenamiento de datos de ultra-alta densidad.*
-- **Foco:** Física aplicada, nuevos materiales y modelos de retención de datos a largo plazo.
-- **Estado:** Validación teórica (v018) y búsqueda de escalabilidad industrial.
-- **Tech:** Modelado físico avanzado, Análisis de datos.
+**Systems Engineer** focused on the convergence of **Physical Infrastructure** and **Digital Intelligence**. I do not just write code; I design the underlying logic and architecture that makes systems robust, scalable, and intelligent. My work bridges the gap between hardware operations (OT) and modern software ecosystems (IT).
 
-### 👁️ PPE Detection System (Computer Vision)
-*Sistema de seguridad industrial basado en IA para detección de Equipos de Protección Personal.*
-- **Rendimiento:** 97.4% mAP en entornos reales.
-- **Tech:** YOLOv11, Optimización para T4 GPU, Python.
+### 🚀 Selected Projects
 
-### 🏷️ Auto-Label Engine
-*Plataforma de automatización para curaduría de datasets.*
-- **Función:** Generación masiva de etiquetas para entrenamiento de modelos de visión.
-- **Tech:** FastAPI, YOLO-World, SQLAlchemy.
+#### 🧬 GENESIS (Advanced Materials R&D)
+*Theoretical-experimental framework for ultra-high density storage based on metastable material states.*
+- **Focus**: Physics-aware modeling, Landau-Ginzburg calibration, Energy barrier analysis.
+- **Status**: **Private Research** (NDA Required).
+
+#### ⚛️ ReactionNet
+*Siamese Neural Network architecture designed to predict chemical reactivity between element pairs.*
+- **Tech**: Python, TensorFlow/Keras, Contrastive Loss.
+- [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SperanzaMax/ReactionNet)
+
+#### 🌐 DevNet & Network Programmability
+*Infrastructure as Code (IaC) implementations and network automation labs.*
+- **Tech**: Python, APIs, Cisco SDKs, Jenkins.
+- [![Code](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SperanzaMax/DevNet2025)
+
+#### 👁️ PPE Detection System
+*Industrial safety AI for detecting Personal Protective Equipment (97.4% mAP).*
+- **Tech**: YOLOv11, T4 GPU Optimization, Real-time Inference.
+- *Private Repository (Industrial Implementation)*
 
 ---
 
-## 🎓 Formación y Certificaciones
+<a id="-perfil-en-español"></a>
+## 🇪🇸 Perfil en Español
 
-- **Diplomatura en Inteligencia Artificial** | UTN.BA
-- **DevNet Associate** | Cisco Networking Academy
-- **Ingeniería en Sistemas de Información** | UBA (FIUBA)
+**Ingeniero de Sistemas** enfocado en la convergencia de **Infraestructura Física** e **Inteligencia Digital**. No solo escribo código; diseño la lógica y arquitectura subyacente que hace a los sistemas robustos, escalables e inteligentes. Mi trabajo une las operaciones de hardware (OT) con ecosistemas de software modernos (IT).
+
+### 🚀 Proyectos Destacados
+
+#### 🧬 GENESIS (I+D en Materiales)
+*Marco teórico-experimental para almacenamiento de datos de ultra-alta densidad basado en estados metaestables.*
+- **Foco**: Modelado físico, calibración Landau-Ginzburg, análisis de barreras de energía.
+- **Estado**: **Investigación Privada** (Requiere NDA).
+
+#### ⚛️ ReactionNet
+*Arquitectura de Red Neuronal Siamesa diseñada para predecir la reactividad química entre pares de elementos.*
+- **Tech**: Python, TensorFlow/Keras, Contrastive Loss.
+- [![Código](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SperanzaMax/ReactionNet)
+
+#### 🌐 DevNet & Programabilidad de Redes
+*Implementaciones de Infraestructura como Código (IaC) y laboratorios de automatización de redes.*
+- **Tech**: Python, APIs, Cisco SDKs, Jenkins.
+- [![Código](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SperanzaMax/DevNet2025)
+
+#### 👁️ Sistema de Detección EPP
+*IA de seguridad industrial para detección de Equipos de Protección (97.4% mAP).*
+- **Tech**: YOLOv11, Optimización T4 GPU, Inferencia en tiempo real.
+- *Repositorio Privado (Implementación Industrial)*
 
 ---
-
 <div align="center">
-  <p><i>"Transforming complex physical challenges into efficient digital solutions."</i></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SperanzaMax&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&text_color=9f9f9f&icon_color=00FFFF" width="100%" />
+  <sub>© 2026 Maximiliano R. Speranza. <i>Logic. Architecture. Technology.</i></sub>
 </div>
