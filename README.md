@@ -17,7 +17,7 @@ Soy un **Ingeniero de Sistemas** impulsado por la curiosidad y la precisión. Mi
 ---
 
 ## 🔬 Current Focus
-- **Experimental data storage & computational materials**
+- 🔬 GENESIS — private experimental research on physics-informed, data-driven models for material systems
 - **AI-assisted modeling of physical systems**
 - **High-density / long-retention memory concepts**
 - **DevNet automation & systems integration**
