@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="maxi_header.png" alt="Profile Banner" width="100%" />
+</div>
+
+<div align="center">
   <br/>
   <img src="perfil_maxi.png" width="180px" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Maximiliano Speranza" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'"/>
   
