@@ -17,7 +17,7 @@ La Ingeniería de Sistemas impulsada por la curiosidad y la implementación de d
 ---
 
 ## 🔬 Current Focus
-- 🔬 GENESIS — private experimental research on physics-informed, data-driven models for material systems
+- 🔬 GENESIS — Private experimental research on physics-consistent modeling for complex material systems.
 - **AI-assisted modeling of physical systems**
 - **High-density / long-retention memory concepts**
 - **DevNet automation & systems integration**
