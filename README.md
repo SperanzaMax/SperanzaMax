@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/SperanzaMax/SperanzaMax/main/perfil_maxi.png" width="180px" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Maximiliano Speranza" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'"/>
+  <img src="perfil_maxi.png" width="180px" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Maximiliano Speranza" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'"/>
   
   <br/>
   
