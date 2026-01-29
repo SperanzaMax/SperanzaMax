@@ -1,92 +1,74 @@
 <div align="center">
-  <img src="maxi_header.png" alt="Profile Banner" width="100%" />
+  <img src="header_profile.jpg" width="100%" style="border-radius: 10px;" alt="Profile Header"/>
 </div>
+
+<br/>
 
 <div align="center">
+  <h1>Maximiliano R. Speranza</h1>
+  <h3>IT • DevOps • DevNet • AI Engineer</h3>
+  <p><i>Integrando Infraestructura Crítica, Automatización de Redes e Inteligencia Artificial.</i></p>
+
   <br/>
-  <img src="perfil_maxi.png" width="180px" style="border-radius: 50%; border: 3px solid #00FFFF;" alt="Maximiliano Speranza" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'"/>
-  <br/>
+
+  <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:info@westo.com.ar">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
-# Maximiliano R. Speranza
+<br/>
 
-## Research-Oriented Technologist | Applied Physics • Advanced Materials • AI Systems
+## 🚀 Perfil Profesional
 
-Ingeniero de perfil técnico–experimental con más de 20 años resolviendo problemas complejos en sistemas físicos y digitales. Trabajo en la intersección entre **materiales avanzados**, **modelado físico**, **arquitecturas computacionales no convencionales** y **IA aplicada**.
+Ingeniero con una sólida trayectoria técnica de más de 20 años en **Operaciones de Sistemas e Infraestructura**. Mi carrera ha evolucionado desde la gestión de entornos físicos críticos hacia la **Ingeniería de Software y DevOps**, especializándome en la convergencia de **IT, OT (Operational Technology) e IA**.
 
-Mi foco actual está en **nuevos paradigmas de almacenamiento y computación**, con énfasis en:
-
-- Materiales con comportamiento emergente  
-- Dispositivos de memoria no volátil de ultra alta densidad  
-- Modelos físicos verificables (no heurísticos)  
-- Escalabilidad energética y térmica  
+Mi enfoque actual combina la robustez de la ingeniería de sistemas con la agilidad de las prácticas DevOps y la innovación de la Inteligencia Artificial aplicada.
 
 ---
 
-## Current Flagship Project — GENESIS
+## 🛠️ Stack Tecnológico
 
-**GENESIS** es un marco teórico–experimental para un nuevo tipo de medio de almacenamiento físico:
-
-- 🧠 Memoria sólida basada en materiales dopados con estados metaestables  
-- ⚡ Escritura y lectura ultra-rápida  
-- 🔥 Bajo consumo energético y mínima disipación térmica  
-- 🕰️ Retención teórica del orden de miles de millones de años  
-- 📐 Modelo validado bajo Landau–Ginzburg y análisis de barreras energéticas  
-
-> Documentación con criterio *paper-grade* (IEEE / Nature level), priorizando reproducibilidad física y escalabilidad industrial.
+| Dominio | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Artificial Intelligence** | `YOLO (v8/v11)` • `OpenCV` • `PyTorch` • `Computer Vision` • `Ultralytics` |
+| **DevNet & Network** | `Cisco DevNet` • `Network Automation` • `IoT Protocols` • `Infrastructure as Code` |
+| **DevOps & Cloud** | `Docker` • `CI/CD Pipelines` • `Git` • `Linux Administration` |
+| **Backend & Logic** | `Python` • `FastAPI` • `SQLAlchemy` • `MySQL` |
 
 ---
 
-## What I Bring to NVIDIA
+## 🧠 Proyectos Destacados
 
-No presento una idea: presento **un sistema físicamente consistente**.
+### 🧬 GENESIS (Research & Development)
+*Marco teórico-experimental para almacenamiento de datos de ultra-alta densidad.*
+- **Foco:** Física aplicada, nuevos materiales y modelos de retención de datos a largo plazo.
+- **Estado:** Validación teórica (v018) y búsqueda de escalabilidad industrial.
+- **Tech:** Modelado físico avanzado, Análisis de datos.
 
-- 🔬 Pensamiento físico primero  
-- 🧩 Integración de materiales, hardware y software  
-- 🧠 IA aplicada a sistemas reales (UTN, Cisco DevNet)  
-- 🚀 Enfoque prototipo → validación → escalado  
+### 👁️ PPE Detection System (Computer Vision)
+*Sistema de seguridad industrial basado en IA para detección de Equipos de Protección Personal.*
+- **Rendimiento:** 97.4% mAP en entornos reales.
+- **Tech:** YOLOv11, Optimización para T4 GPU, Python.
 
-Interés en colaboración con equipos de:
-
-- NVIDIA Research  
-- Advanced Hardware  
-- Memory Systems  
-- Compute-in-Memory  
-- Arquitecturas post-SSD / post-DRAM  
-
----
-
-## Technical Domains
-
-- **Physics & Materials**: ferroelectric oxides, doped silicon, metastable lattices  
-- **Modeling**: Landau–Ginzburg, barrier analysis, retention modeling  
-- **AI / Software**: Python, applied ML, system automation  
-- **Systems Thinking**: arquitectura completa, no componentes aislados  
+### 🏷️ Auto-Label Engine
+*Plataforma de automatización para curaduría de datasets.*
+- **Función:** Generación masiva de etiquetas para entrenamiento de modelos de visión.
+- **Tech:** FastAPI, YOLO-World, SQLAlchemy.
 
 ---
 
-> *“If it doesn’t survive physics, it doesn’t ship.”*
+## 🎓 Formación y Certificaciones
+
+- **Diplomatura en Inteligencia Artificial** | UTN.BA
+- **DevNet Associate** | Cisco Networking Academy
+- **Ingeniería en Sistemas de Información** | UBA (FIUBA)
 
 ---
 
-## Contact
-
-<div style="display: flex; justify-content: center; gap: 8px;">
-    <a href="https://www.linkedin.com/in/maximiliano-speranza-35876737a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://westo.com.ar">
-      <img src="https://img.shields.io/badge/Website-WESTO-orange?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Westo Website"/>
-    </a>
-     <a href="mailto:info@westo.com.ar">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+<div align="center">
+  <p><i>"Transforming complex physical challenges into efficient digital solutions."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SperanzaMax&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&text_color=9f9f9f&icon_color=00FFFF" width="100%" />
 </div>
-
-GitHub Issues / Discussions  
-Contacto directo bajo NDA, previa validación técnica.
-
----
-
-**Nota**: Perfil deliberadamente orientado a interlocutores técnicos senior y equipos de I+D.  
-No es un pitch comercial.
