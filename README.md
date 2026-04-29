@@ -8,7 +8,7 @@ Building experimental architectures at the intersection of AI, physics, and infr
 
 ### 👤 Personal Profile / Perfil Personal
 
-**🇬🇧 English**  
+**🇺🇸 English**  
 Systems Engineering driven by curiosity and the implementation of diverse technological tools is the profile that defines me best. My career spans over 20 years, evolving from managing critical physical infrastructure to architecting digital intelligence. I specialize in solving complex, multi-dimensional problems where hardware, software, and physics converge. My goal is to build systems that are not just functional, but physically consistent and scalable.
 
 **🇦🇷 Español**  
