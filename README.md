@@ -4,8 +4,8 @@
 
 Building experimental architectures at the intersection of AI, physics, and infrastructure.
 
-**Maximiliano Rodrigo Speranza** — Independent Researcher — Buenos Aires, Argentina
-📧 **maximiliano.speranza@gmail.com** · 🆔 ORCID [0009-0005-0413-8554](https://orcid.org/0009-0005-0413-8554)
+**Maximiliano Rodrigo Speranza** — **Independent Researcher — Buenos Aires, Argentina**
+📧 **maximiliano.speranza@gmail.com** · 🆔 **ORCID [0009-0005-0413-8554](https://orcid.org/0009-0005-0413-8554)**
 
 ---
 
